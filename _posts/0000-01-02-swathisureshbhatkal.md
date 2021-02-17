@@ -1,6 +1,6 @@
 ---
 layout: slide
-title : "Welcome"
+title : "Welcome to Github"
 ---
 
 Use the left arrow to go back
